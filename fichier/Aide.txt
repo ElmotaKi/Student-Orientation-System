@@ -1,0 +1,29 @@
+______________________Fichier d'aide_______________________
+
+
+Basé sur un algorithme de machine learning, ce système est
+conçu pour vous aider à vous orienter dans une filière de 
+spécialité.
+
+Pour ce faire il vous offre une plate-forme constituée de 
+plusieurs options qui vous aideront à faire un choix adéquat.
+
+      ---------------------'RECAPITULATIF'----------------------
+
+Cette option vous permet de voir vos résultats du DEUST en
+fonction des différents modules de prédilection de chaque
+filière.
+Vous pourrez donc pour chaque discipline observez la courbe
+évolutive de vos notes par semestre ainsi que la moyenne
+générale dans ladite discipline.
+
+
+      ----------------------'PREDICTION'-------------------------
+
+Cette option quant à elle, vous fourni la prédiction de vos
+moyennes par filière sur la base de vos notes du DEUST.
+A celà s'ajoute un histogramme de ces prédictions.
+
+
+_____________________________________________________________
+		     copyright 2018
